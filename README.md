@@ -9,7 +9,7 @@ In your Dockerfile
 ```Dockerfile
 
 RUN git clone https://github.com/mwvaughn/enable_reactors.git && \
-    cd enable-reactors && \
+    cd enable_reactors && \
     bash install.sh 
 
 ```
